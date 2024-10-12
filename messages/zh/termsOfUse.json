@@ -1,0 +1,26 @@
+{
+  "Metadata": {
+    "title": "使用条款 | Bad Parenting",
+    "description": "进入这个黑暗世界前,请仔细阅读我们的使用条款。"
+  },
+  "title": "使用条款",
+  "subtitle": "在踏入这个噩梦之前,请仔细阅读",
+  "sections": {
+    "acceptance": {
+      "title": "接受条款",
+      "content": "进入Bad Parenting的世界,就意味着你接受了我们的所有条款。这里没有退路,只有前进。"
+    },
+    "userBehavior": {
+      "title": "用户行为",
+      "content": "在这个扭曲的世界里,你的每一个选择都将产生后果。我们不对你的行为负责,但请记住,红脸先生始终在注视着你。"
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "content": "Bad Parenting可能会引起强烈的情感反应和心理不适。我们不对任何玩家因游戏内容而产生的噩梦、失眠或心理阴影负责。"
+    },
+    "modification": {
+      "title": "条款修改",
+      "content": "我们保留随时修改这些条款的权利,就像红脸先生可能随时出现在你的噩梦中一样。继续使用本游戏即表示你接受任何更改。"
+    }
+  }
+}

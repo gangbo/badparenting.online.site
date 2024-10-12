@@ -1,0 +1,26 @@
+{
+  "Metadata": {
+    "title": "Terms of Use | Bad Parenting",
+    "description": "Please read our terms of use carefully before entering this dark world."
+  },
+  "title": "Terms of Use",
+  "subtitle": "Read carefully before stepping into this nightmare",
+  "sections": {
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "Entering the world of Bad Parenting means you accept all our terms. There's no turning back, only moving forward."
+    },
+    "userBehavior": {
+      "title": "User Behavior",
+      "content": "In this twisted world, every choice you make will have consequences. We are not responsible for your actions, but remember, the Red-Faced Man is always watching."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "Bad Parenting may cause strong emotional reactions and psychological discomfort. We are not responsible for any nightmares, insomnia, or psychological shadows players may experience due to the game content."
+    },
+    "modification": {
+      "title": "Modification of Terms",
+      "content": "We reserve the right to modify these terms at any time, just as the Red-Faced Man might appear in your nightmares at any moment. Continued use of this game indicates your acceptance of any changes."
+    }
+  }
+}

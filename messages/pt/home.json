@@ -1,0 +1,57 @@
+{
+  "Metadata": {
+    "title": "Bad Parenting: Desmascarando o Terror do Homem de Rosto Vermelho",
+    "description": "Jogo de terror online gratuito - Mergulhe em um mundo de contos de fadas sombrios e descubra segredos familiares ocultos",
+    "keywords": [
+      "jogo de terror",
+      "jogo indie",
+      "jogo de navegador",
+      "jogo grátis",
+      "BadParenting",
+      "Homem de Rosto Vermelho",
+      "história de terror"
+    ]
+  },
+  "hero": {
+    "title": "Bad Parenting: Desmascarando o Terror do Homem de Rosto Vermelho",
+    "subtitle": "Mergulhe em um mundo de contos de fadas sombrios e descubra segredos familiares ocultos"
+  },
+  "gameFeatures": {
+    "title": "Características do Jogo",
+    "features": [
+      "Enredo Arrepiante: Descubra os segredos sombrios por trás do 'Homem de Rosto Vermelho'",
+      "Experiência Imersiva: Sinta a dor e a luta da família através da perspectiva de Ron",
+      "Controles Simples: Sistema fácil de aprender focado na experiência da história",
+      "Emoção Compacta: Cerca de 20 minutos de terror concentrado",
+      "Multilíngue: Suporta mais de 20 idiomas, incluindo português, inglês e japonês"
+    ]
+  },
+  "storyBackground": {
+    "title": "Contexto da História",
+    "content1": "O Homem de Rosto Vermelho, um personagem fictício criado por adultos para educar crianças. A lenda diz que ele aparece à noite, trazendo presentes para crianças bem-comportadas. Mas será que essa história aparentemente agradável é tão simples assim?",
+    "content2": "Jogue como Ron e experimente em primeira mão o sofrimento que o Homem de Rosto Vermelho traz para a família. Cada escolha que você fizer pode alterar o curso da história."
+  },
+  "gameControls": {
+    "title": "Controles do Jogo",
+    "controls": [
+      "Mover: WASD",
+      "Interagir: E ou Botão Esquerdo do Mouse",
+      "Correr: Shift Esquerdo",
+      "Ajustar Sensibilidade do Mouse: O (Diminuir) / P (Aumentar)"
+    ]
+  },
+  "screenshots": {
+    "title": "Capturas de Tela do Jogo"
+  },
+  "callToAction": {
+    "title": "Está Pronto para Enfrentar o Terror?",
+    "button": "Comece a Jogar Agora"
+  },
+  "community": {
+    "title": "Junte-se à Nossa Comunidade",
+    "description": "Quer ser o primeiro a saber sobre o desenvolvimento de 'Bad Parenting 2'? Junte-se à nossa comunidade no Discord:",
+    "button": "Entrar no Discord"
+  },
+  "version2Title": "Versão 2 (O primeiro carregamento pode ser lento, por favor, seja paciente)",
+  "version1Title": "Versão 1"
+}

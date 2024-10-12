@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "隐私政策 | Bad Parenting",
+    "description": "了解我们如何在阴影中保护你的隐私。"
+  },
+  "title": "隐私政策",
+  "subtitle": "在黑暗中,我们如何保护你的秘密",
+  "sections": {
+    "informationCollection": {
+      "title": "信息收集",
+      "content": "我们收集你的恐惧、你的选择,以及你在游戏中留下的每一个痕迹。这些数据将被用来增强你的恐怖体验。"
+    },
+    "userAccount": {
+      "title": "用户账户",
+      "content": "你的账户就像是通往这个黑暗世界的钥匙。请妥善保管,因为一旦丢失,你可能永远无法逃脱。"
+    },
+    "dataSecurity": {
+      "title": "数据安全",
+      "content": "我们使用最先进的加密技术来保护你的数据,就像红脸先生保护他的秘密一样。但请记住,在这个世界里,没有什么是绝对安全的。"
+    },
+    "cookieUsage": {
+      "title": "Cookie使用",
+      "content": "我们使用Cookie来跟踪你的行为,就像红脸先生跟踪不听话的孩子一样。这些Cookie帮助我们提供更加个性化的恐怖体验。"
+    },
+    "policyUpdate": {
+      "title": "政策更新",
+      "content": "我们可能会不时更新这个隐私政策,就像噩梦会随时变化一样。请定期查看,以确保你了解我们如何处理你的信息。"
+    }
+  }
+}

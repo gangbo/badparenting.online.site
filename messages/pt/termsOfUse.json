@@ -1,0 +1,26 @@
+{
+  "Metadata": {
+    "title": "Termos de Uso | Bad Parenting",
+    "description": "Por favor, leia nossos termos de uso cuidadosamente antes de entrar neste mundo sombrio."
+  },
+  "title": "Termos de Uso",
+  "subtitle": "Leia atentamente antes de entrar neste pesadelo",
+  "sections": {
+    "acceptance": {
+      "title": "Aceitação dos Termos",
+      "content": "Entrar no mundo de Bad Parenting significa que você aceita todos os nossos termos. Não há volta, apenas seguir em frente."
+    },
+    "userBehavior": {
+      "title": "Comportamento do Usuário",
+      "content": "Neste mundo distorcido, cada escolha que você fizer terá consequências. Não somos responsáveis por suas ações, mas lembre-se, o Homem de Rosto Vermelho está sempre observando."
+    },
+    "disclaimer": {
+      "title": "Isenção de Responsabilidade",
+      "content": "Bad Parenting pode causar fortes reações emocionais e desconforto psicológico. Não nos responsabilizamos por quaisquer pesadelos, insônia ou sombras psicológicas que os jogadores possam experimentar devido ao conteúdo do jogo."
+    },
+    "modification": {
+      "title": "Modificação dos Termos",
+      "content": "Reservamo-nos o direito de modificar estes termos a qualquer momento, assim como o Homem de Rosto Vermelho pode aparecer em seus pesadelos a qualquer momento. O uso contínuo deste jogo indica sua aceitação de quaisquer alterações."
+    }
+  }
+}

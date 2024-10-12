@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Privacy Policy | Bad Parenting",
+    "description": "Learn how we protect your privacy in the shadows."
+  },
+  "title": "Privacy Policy",
+  "subtitle": "How we protect your secrets in the dark",
+  "sections": {
+    "informationCollection": {
+      "title": "Information Collection",
+      "content": "We collect your fears, your choices, and every trace you leave in the game. This data will be used to enhance your horror experience."
+    },
+    "userAccount": {
+      "title": "User Account",
+      "content": "Your account is like a key to this dark world. Guard it carefully, for once lost, you may never escape."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We use state-of-the-art encryption to protect your data, just as the Red-Faced Man protects his secrets. But remember, in this world, nothing is absolutely safe."
+    },
+    "cookieUsage": {
+      "title": "Cookie Usage",
+      "content": "We use cookies to track your behavior, much like how the Red-Faced Man tracks disobedient children. These cookies help us provide a more personalized horror experience."
+    },
+    "policyUpdate": {
+      "title": "Policy Updates",
+      "content": "We may update this privacy policy from time to time, just as nightmares can change at any moment. Please check regularly to ensure you understand how we handle your information."
+    }
+  }
+}

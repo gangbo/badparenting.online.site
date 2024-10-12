@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Política de Privacidade | Bad Parenting",
+    "description": "Saiba como protegemos sua privacidade nas sombras."
+  },
+  "title": "Política de Privacidade",
+  "subtitle": "Como protegemos seus segredos na escuridão",
+  "sections": {
+    "informationCollection": {
+      "title": "Coleta de Informações",
+      "content": "Coletamos seus medos, suas escolhas e cada rastro que você deixa no jogo. Esses dados serão usados para aprimorar sua experiência de terror."
+    },
+    "userAccount": {
+      "title": "Conta de Usuário",
+      "content": "Sua conta é como uma chave para este mundo sombrio. Guarde-a com cuidado, pois uma vez perdida, você pode nunca mais escapar."
+    },
+    "dataSecurity": {
+      "title": "Segurança de Dados",
+      "content": "Usamos criptografia de ponta para proteger seus dados, assim como o Homem de Rosto Vermelho protege seus segredos. Mas lembre-se, neste mundo, nada é absolutamente seguro."
+    },
+    "cookieUsage": {
+      "title": "Uso de Cookies",
+      "content": "Usamos cookies para rastrear seu comportamento, assim como o Homem de Rosto Vermelho rastreia crianças desobedientes. Esses cookies nos ajudam a fornecer uma experiência de terror mais personalizada."
+    },
+    "policyUpdate": {
+      "title": "Atualização da Política",
+      "content": "Assim como os pesadelos podem mudar a qualquer momento, podemos atualizar esta Política de Privacidade periodicamente. Verifique regularmente para entender como lidamos com suas informações."
+    }
+  }
+}

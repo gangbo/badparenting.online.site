@@ -1,0 +1,57 @@
+{
+  "Metadata": {
+    "title": "Bad Parenting: 揭开红脸先生的恐怖面纱",
+    "description": "免费在线恐怖游戏 - 深入黑暗的童话世界，探索家庭隐藏的秘密",
+    "keywords": [
+      "恐怖游戏",
+      "独立游戏",
+      "网页游戏",
+      "免费游戏",
+      "BadParenting",
+      "红脸先生",
+      "恐怖故事"
+    ]
+  },
+  "hero": {
+    "title": "Bad Parenting: 揭开红脸先生的恐怖面纱",
+    "subtitle": "深入黑暗的童话世界，探索家庭隐藏的秘密"
+  },
+  "gameFeatures": {
+    "title": "游戏特色",
+    "features": [
+      "惊悚剧情：揭开'红脸先生'背后的黑暗秘密",
+      "沉浸式体验：通过主角Ron的视角，感受家庭的痛苦与挣扎",
+      "简单操作：易上手的控制系统，专注于故事体验",
+      "短小精悍：约20分钟的游戏时长，浓缩的恐怖体验",
+      "多语言支持：支持20+种语言，包括中文、英语、日语等"
+    ]
+  },
+  "storyBackground": {
+    "title": "故事背景",
+    "content1": "红脸先生，一个由大人们创造出来教育孩子的虚构角色。传说他常在深夜现身，给乖孩子送礼物。但是，这个看似美好的故事，真的如此简单吗？",
+    "content2": "扮演Ron，亲身经历红脸先生给家庭带来的苦难。每一个选择，都可能改变故事的走向。"
+  },
+  "gameControls": {
+    "title": "游戏控制",
+    "controls": [
+      "移动：WASD",
+      "互动：E 或 鼠标左键",
+      "奔跑：左Shift",
+      "调整鼠标灵敏度：O（降低）/ P（提高）"
+    ]
+  },
+  "screenshots": {
+    "title": "游戏截图"
+  },
+  "callToAction": {
+    "title": "准备好面对恐怖了吗？",
+    "button": "立即开始游戏"
+  },
+  "community": {
+    "title": "加入我们的社区",
+    "description": "想要第一时间获悉《Bad Parenting 2》的开发进度？加入我们的Discord社区：",
+    "button": "加入 Discord"
+  },
+  "version2Title": "Version 2(首次加载较慢，请耐心等待)",
+  "version1Title": "Version 1"
+}
